@@ -10,6 +10,7 @@ Curated, opinionated markdown files by [freacat](https://github.com/freacat). Dr
 | [`humanize-writing.md`](humanize-writing.md) | Rules that make output read like a person wrote it, not a language model. |
 | [`i-have-adhd.md`](i-have-adhd.md) | Concise, action-first replies shaped for a reader with ADHD. |
 | [`initiate-development.md`](initiate-development.md) | Setup rules to run before writing feature code in any project. |
+| [`cats_on_the_road/`](cats_on_the_road/README.md) | The 20 prompts from the Cats on the Road video «۲۰ پرامپت» (AI for Everyone playlist), Persian + English, one file each. |
 
 ## Usage
 
