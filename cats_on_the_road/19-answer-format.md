@@ -7,7 +7,7 @@
 ## پرامپت (فارسی)
 
 ```text
-این [ایمیل / متن] رو بخون و [چیزی که لازم داری] رو به شکلِ [چک‌لیست / جدول / پیامِ آماده‌ی کپی] دربیار؛ [قانونِ قالب، مثلاً: هر خط یه کار، با مهلتش].
+این [ایمیل / متن] رو بخون و [چیزی که لازم داری] رو به شکلِ [چک‌لیست / جدول / لیستِ شماره‌دار / حداکثر سه خط] دربیار؛ [قانونِ قالب، مثلاً: هر خط یه کار، با مهلتش].
 
 [متن]
 ```
@@ -15,7 +15,7 @@
 ## Prompt (English)
 
 ```text
-Read this [email / text] and turn [what you need] into a [checklist / table / ready-to-send message]: [format rule, e.g. one task per line, with its deadline].
+Read this [email / text] and turn [what you need] into a [checklist / table / numbered list / three lines max]: [format rule, e.g. one task per line, with its deadline].
 
 [text]
 ```
